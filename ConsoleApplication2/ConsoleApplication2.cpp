@@ -1,4 +1,4 @@
-// ConsoleApplication2.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// ConsoleApplication2.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@
 int main()
 {
 	/*
-	ÈëÃÅ
+	å…¥é—¨-æœåŠ¡ç«¯è¿›è¡Œäº†ä¸€æ¬¡
 	*/
     return 0;
 }
