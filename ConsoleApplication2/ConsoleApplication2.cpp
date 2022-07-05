@@ -7,7 +7,7 @@
 int main()
 {
 	/*
-	大傻逼
+	 你好
 	*/
     return 0;
 }
