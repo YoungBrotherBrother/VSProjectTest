@@ -6,6 +6,9 @@
 
 int main()
 {
+	/*
+	ÈëÃÅ
+	*/
     return 0;
 }
 
