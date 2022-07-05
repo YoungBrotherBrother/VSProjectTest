@@ -1,4 +1,4 @@
-// ConsoleApplication2.cpp : 瀹氫箟鎺у埗鍙板簲鐢ㄧ▼搴忕殑鍏ュ彛鐐广�?
+// ConsoleApplication2.cpp : 
 //
 
 #include "stdafx.h"
@@ -7,7 +7,7 @@
 int main()
 {
 	/*
-	乱码
+	乱码-问题如何解决
 	*/
     return 0;
 }
